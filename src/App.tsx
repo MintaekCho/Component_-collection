@@ -1,11 +1,10 @@
-import { useState } from 'react'
-import './App.css'
+import InputTest from "./components/input/InputTest";
 
 function App() {
 
   return (
     <>
-      
+      <InputTest />
     </>
   )
 }
