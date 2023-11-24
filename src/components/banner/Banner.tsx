@@ -6,7 +6,7 @@ export default function Banner() {
         <SBanner>
             <BannerTextWrapper>
                 <p>포용금융을 실현하는</p>
-                <p>핀테크 플랫폼</p>
+                <p>핀테크 플랫폼!</p>
             </BannerTextWrapper>
         </SBanner>
     );
